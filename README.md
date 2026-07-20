@@ -18,4 +18,4 @@ I build fast, responsive, and user-friendly web apps using React & Next.js.
 
 ### 📫 Connect
 - LinkedIn: https://linkedin.com/in/saynaanbari
-- Email: saenaanbari@gmail.com
+- Email: [saenaanbari@gmail.com](mailto:saenaanbari@gmail.com)
